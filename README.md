@@ -1,4 +1,4 @@
-This is for using CNNs as a model to study the receptive fileds of the retinal cells.\
+This is for using CNNs as a model to study the receptive fileds of the retinal cells.
 
 See the publication:
 
